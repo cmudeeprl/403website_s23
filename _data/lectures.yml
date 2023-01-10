@@ -185,7 +185,7 @@
   lecturer:
   title:
   recitation: >
-    <strong> Recitation 4/strong>
+    <strong> Recitation 4 </strong>
   slides: 
   video: 
   notes:
@@ -689,11 +689,6 @@
     # - Zeng et al. <a href="https://tossingbot.cs.princeton.edu/" target="blank">TossingBot<span>:</span> Learning to Throw Arbitrary Objects with Residual Physics</a>
   logistics:
 
-
-# - date: W 11/23
-#   lecturer:
-#   quiz: >
-#     <strong>Thanksgiving Break - No Classes</strong>
 
 
 - date: F 04/14
