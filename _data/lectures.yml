@@ -186,7 +186,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>MCTS, TD Learning, Deep Q Learning</strong>
+    <strong> Recitation 4/strong>
   slides: 
   video: 
   notes:
@@ -223,11 +223,11 @@
 #     - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
 #   logistics:
 
-- date: M 09/26
+- date: M 02/13
   lecturer: 
   title: >
     <strong>Policy gradients, REINFORCE, Actor-Critic methods</strong>
-  slides: https://www.dropbox.com/s/dz4hvr0onx701en/PG_F22.pdf?dl=0
+  slides: 
   readings:
     - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -235,11 +235,11 @@
   video:
   logistics: <span class="deadline">HW1 due 11:59pm</span> <br>
 
-- date: W 09/28
+- date: W 02/15
   lecturer: 
   title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: https://www.dropbox.com/s/4s4xsunncjnw00x/NaturalPolicyGradientsF22.pdf?dl=0
+  slides: 
   video: 
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -248,23 +248,23 @@
     - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
   logistics: <span class="event">HW2 out (tentative)</span> <br>
 
-- date: F 09/30
+- date: F 02/17
   lecturer:
   title:
   recitation: >
-    <strong>Quiz 1 Review</strong>
-  slides: https://cmudeeprl.github.io/703website_f22/assets/recitation/Recitation_5_Quiz_1_Review.pdf
+    <strong>Recitation 5</strong>
+  slides: 
   video: 
   notes:
   readings:
   logistics:
 
-- date: M 10/03
+- date: M 02/20
   lecturer: 
   title: >
     <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: https://www.dropbox.com/s/5rxmzy6ixfmkppk/PathwiseDDPGF22.pdf?dl=0
-  slides2: https://www.dropbox.com/s/l7bcso8pcto8oto/maxentRLF22.pdf?dl=0
+  slides: 
+  slides2: 
            # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
   video: 
   readings:
@@ -277,11 +277,11 @@
     # - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
 
 
-- date: W 10/05
+- date: W 02/22
   lecturer: 
   title: >
     <strong>Evolutionary methods for policy search</strong>
-  slides: https://www.dropbox.com/s/5lclg8gyfd220zp/evolutionarymethods_F22.pdf?dl=0
+  slides: 
   slides2: 
   video: 
   readings:
@@ -291,7 +291,7 @@
     - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics:
 
-- date: F 10/07
+- date: F 02/24
   lecturer:
   # title:
   recitation:
@@ -306,11 +306,11 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-- date: M 10/10
+- date: M 02/27
   lecturer: 
   title: >
     <strong>Imitation learning, behavior cloning</strong>
-  slides: https://www.dropbox.com/s/1waaspgny0ebstd/immitationlearning_F22.pdf?dl=0
+  slides:
   video: 
   notes:
   readings:
@@ -342,12 +342,12 @@
 #     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
 #   logistics:
 
-- date: W 10/12
+- date: W 03/01
   lecturer: 
   title: >
     <strong>Adversarial imitation learning, Imitation learning for vision-based manipulation</strong>
-  slides: https://www.dropbox.com/s/uhumalwovumf4xo/ILManipulationTransporters.pdf?dl=0
-  slides2: https://www.dropbox.com/s/ugtcolgvwg18zia/GAILF22.pdf?dl=0
+  slides: 
+  slides2: 
   video: 
   notes:
   readings:
@@ -370,11 +370,11 @@
 
 
 
-- date: F 10/14
+- date: F 03/03
   lecturer:
   title:
   recitation: >
-    <strong>Solutions to Quiz 1</strong>
+    <strong>Recitation 6</strong>
   notes:
   readings:
   logistics:
@@ -398,29 +398,29 @@
 
 
 
-- date: M 10/17
+- date: M 03/06
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
 
 
-- date: W 10/19
+- date: W 03/08
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
 
-- date: F 10/21
+- date: F 03/10
   lecturer:
   quiz: >
     <strong>Fall Break - No Classes</strong>
 
 
-- date: M 10/24
+- date: M 03/13
   lecturer: 
   title: >
     <strong>Transporter networks for Robot manipulation (cont.), Model-based RL in low-dim state space</strong>
-  slides: https://www.dropbox.com/s/uhumalwovumf4xo/ILManipulationTransporters.pdf?dl=0
-  slides2: https://www.dropbox.com/s/mvvmbh5420shbf3/MBRLRL_lowdimexplicit_F22.pdf?dl=0
+  slides: 
+  slides2: 
   video: 
   notes:
   readings:
@@ -434,11 +434,11 @@
     
   logistics: <span class="event">HW3 out (tentative)</span>,  <span class="deadline">HW2 due 11:59PM</span>
 
-- date: W 10/26
+- date: W 03/15
   lecturer: 
   title: >
     <strong>MBRL (cont), AlphaGo, AlphaGoZero</strong>
-  slides: https://www.dropbox.com/s/xbhtfnidtzlnuor/MBRL_AlphaZeroMuzero_F22.pdf?dl=0
+  slides: 
   video:
   notes:
   readings:
@@ -483,18 +483,22 @@
 #  logistics:
 
 
-- date: F 10/28
+- date: F 03/17
   lecturer:
-  quiz: >
-    <strong>Tartan Community Day - No Classes</strong>
+  title:
+  recitation: >
+    <strong>Recitation 7</strong>
+  notes:
+  readings:
+  logistics:
 
 
-- date: M 10/31
+- date: M 03/20
   lecturer: 
   title: >
     <strong>AlphaGoZero, MBRL in sensory space</strong>
-  slides: https://www.dropbox.com/s/ixv79k6jn562w0z/MBRLRL_sensory.pdf?dl=0
-  slides2: https://www.dropbox.com/s/tglago3hht941sd/TD-MPC.pdf?dl=0
+  slides: 
+  slides2: 
   video:
   notes:
   readings:
@@ -511,12 +515,12 @@
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
 
-- date: W 11/02
+- date: W 03/22
   lecturer: 
   title: >
     <strong>MBRL (cont.) Deterministic latent dynamics models</strong>
-  slides: https://www.dropbox.com/s/sky0wulzaer8wcd/MBRL_muZero.pdf?dl=0
-  slides2: https://www.dropbox.com/s/g6blwr4z9czcmre/MBRL_stochasticlatentF22.pdf?dl=0
+  slides: 
+  slides2: 
   video:
   notes:
   readings:
@@ -539,23 +543,23 @@
 
 
 
-- date: F 11/04
+- date: F 03/24
   lecturer:
   title:
   recitation: >
-    <strong>Quiz 2 Review</strong>
-  slides: https://docs.google.com/presentation/d/1-07O9H_-UrDkB6pSox7YGzqsRjTfK6vqVpLRLd2s9PQ/edit#slide=id.g17e7edab052_0_64
+    <strong>Recitation 7</strong>
+  slides: 
   video: 
   notes:
   readings:
   logistics:
 
-- date: M 11/07
+- date: M 03/27
   lecturer: 
   title: >
     <strong>MBRL (cont.) Stochastic latent dynamics models</strong>
-  slides: https://www.dropbox.com/s/g6blwr4z9czcmre/MBRL_stochasticlatentF22.pdf?dl=0
-  slides2: https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
+  slides: 
+  slides2: 
   video: 
   notes:
   readings:
@@ -571,12 +575,12 @@
     # - Silver et al. <a href="https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ" target="_blank">Mastering the game of Go without human knowledge</a>
   # logistics:
 
-- date: W 11/09
+- date: W 03/29
   lecturer: 
   title: >
     <strong> Dynamics learning with graph neural networks</strong>
-  slides: https://www.dropbox.com/s/scl0tn8j3f1cihb/MBRL_graphmodels_F22.pdf?dl=0
-  slides2: https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
+  slides: 
+  slides2: 
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/S21_lec17_MCTS_priorknowledge.pdf
   # slides: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_lec18_modelbasedRL.pdf
   video: 
@@ -590,7 +594,7 @@
     # - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
 
 
-- date: F 11/11
+- date: F 03/31
   lecturer:
   recitation:
   quiz: >
@@ -605,11 +609,11 @@
 
 
 
-- date: M 11/14
+- date: M 04/03
   lecturer: 
   title: >
     <strong>Intelligent Exploration</strong>
-  slides: https://www.dropbox.com/s/9i0an917vuhou10/deepexplorationF22.pdf?dl=0
+  slides: 
   slides2: 
   video: 
   notes:
@@ -629,11 +633,11 @@
     # - Mandlekar et al. <a href="https://arxiv.org/abs/1911.05321" target="_blank">IRIS Implicit Reinforcement without Interaction at Scale for Learning Control from Offline Robot Manipulation Data</a>
   logistics:
 
-- date: W 11/16
+- date: W 04/05
   lecturer: 
   recitation:
   title: >
-    <strong>Postponed</strong>
+    <strong>TBD</strong>
   slides: 
   video: 
   # quiz: >
@@ -650,20 +654,20 @@
   logistics:
 
 
-- date: F 11/18
+- date: F 04/07
   lecturer:
   recitation: >
-    <strong>Recitation</strong>
+    <strong>Recitation 8</strong>
   notes:
   readings:
   logistics:
 
 
-- date: M 11/21
+- date: M 04/10
   lecturer: 
   title: >
     <strong> Offline RL, Learning by Observation </strong>
-  slides: https://www.dropbox.com/s/9lockpewj9f49d1/offpolicyRL_F22.pdf?dl=0
+  slides:
   video: 
   notes:
   readings:
@@ -673,11 +677,11 @@
   logistics:  <span class="event">HW5 out (tentative)</span>,  <span class="deadline">HW4 due 11:59PM</span>
 
 
-- date: W 11/23
+- date: W 04/12
   lecturer: Zoom Only
   title: >
     <strong>Sim2Real Transfer </strong>
-  slides: https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0 
+  slides: 
   video: 
   notes: 
   readings:
@@ -695,19 +699,19 @@
 #     <strong>Thanksgiving Break - No Classes</strong>
 
 
-- date: F 11/25
+- date: F 04/14
   lecturer:
   quiz: >
-    <strong>Thanksgiving Break - No Classes</strong>
+    <strong>Spring Carnival - No Classes</strong>
 
 
 
-- date: M 11/28
+- date: M 04/17
   lecturer: 
   title: >
     <strong> Visual Imitation Learning</strong>
-  slides: https://www.dropbox.com/s/qbuskc562759lnb/sim2realF22.pdf?dl=0
-  slides2: https://www.dropbox.com/s/h2ll79l1vkv2jpa/VisualImitationF22.pdf?dl=0
+  slides: 
+  slides2: 
   video: 
   notes:
   readings:
@@ -767,10 +771,10 @@
 #     <span class="deadline">HW4 due 04/23 11:59pm</span> <span class="event">HW5 out</span> <br>
 
 
-- date: W 11/30
+- date: W 04/19
   title: >
     <strong> Self-Supervised Visual Learning</strong>
-  slides: https://www.dropbox.com/s/676zg3c94jp1q0q/VisualRLSelfSupervision.pdf?dl=0
+  slides:
   notes:
   readings:
     - Chen et al. <a href="https://arxiv.org/abs/2002.05709" target="_blank">A Simple Framework for Contrastive Learning of Visual Representations</a>
@@ -779,10 +783,10 @@
     - Khandelwal et al. <a href="https://arxiv.org/abs/2111.09888" target="_blank">Simple but Effective CLIP Embeddings for Embodied AI</a>
 
 
-- date: F 12/02
+- date: F 04/21
   lecturer:
-  recitation: <strong>Homework 5</strong>
-  slides: https://docs.google.com/presentation/d/1Kno3PWBEP89-ANNHCtCENkxg-P2sbnm-b2BrMi0p834/edit?usp=sharing
+  recitation: <strong>Recitation 9</strong>
+  slides: 
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
   readings:
@@ -819,11 +823,11 @@
 #     <strong>HW5 out</strong>
 
 
-- date: M 12/05
+- date: M 04/24
   lecturer: Katerina
   title: >
     <strong>Control with 3D visual representations </strong>
-  slides: https://www.dropbox.com/s/zr8zgrsy9sg62bu/3Dforrobotics.pdf?dl=0
+  slides: 
   notes:
   readings: 
     - (optional) Fish Tung et al. <a href="https://arxiv.org/abs/1901.00003" target="_blank">Learning Spatial Common Sense with Geometry-Aware Recurrent Networks</a>
@@ -838,11 +842,11 @@
 #   title: >
 #     <strong>HW5 due 05/09 11:59pm</strong>
 
-- date: W 12/07
+- date: W 04/26
   lecturer: 
   title: >
     <strong>Language-guided Control </strong>
-  slides: https://www.dropbox.com/s/nncwth9z2uw1k0z/Languageandbehaviourlearning.pdf?dl=0
+  slides: 
   notes:
   readings:
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
@@ -851,24 +855,17 @@
   logistics: <span class="deadline">HW5 due 11:59PM</span>
       
 
-- date: F 12/09
+- date: F 04/28
   lecturer:
   # quiz: >
   #   <strong>Quiz 3</strong>
-  recitation:  <strong>Quiz 3 Review</strong>
-  slides: https://docs.google.com/presentation/d/1xA0wI82tOqjuvXoJKWLbRmtMuAL9KZ-v/edit?usp=sharing&ouid=103079273328838065544&rtpof=true&sd=true
-  notes: 
-  readings:
-  logistics:
-
-- date: M 12/12
-  lecturer:
-  quiz: >
-    <strong>Quiz 3, 8:30 am - 11:30 am, GHC 4401</strong>
+  recitation:  <strong>Recitation 10</strong>
   slides: 
   notes: 
   readings:
   logistics:
+
+
 
 # - date: W 12/01
 #   lecturer: Ruslan
