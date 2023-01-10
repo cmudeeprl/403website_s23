@@ -1,8 +1,18 @@
-- date: M 08/29
+- date: M 01/16
+  lecturer: 
+  title: >
+    <strong>No Class - MLK Day</strong>
+  slides: 
+  video: 
+  notes:
+  readings:
+  logistics:
+
+- date: W 01/18
   lecturer: 
   title: >
     <strong>Introduction to Reinforcement and Representation Learning</strong>
-  slides: https://www.dropbox.com/s/que45zrg215mnts/lecture1_introF22.pdf?dl=0
+  slides: 
   video: 
   notes:
   readings:
@@ -11,11 +21,11 @@
     - Dan Wolpert't talk <a href="https://www.ted.com/talks/daniel_wolpert_the_real_reason_for_brains/transcript?language=en#t-1117820" target="blank">The real reason for brains</a>
   logistics:
 
-- date: W 08/31
+- date: F 01/20
   lecturer: 
   title: >
     <strong>Multi-armed Bandits</strong>
-  slides: https://www.dropbox.com/s/lzfgs4xcrk34qdm/banditsexploreF22.pdf?dl=0
+  slides: 
   # slides2:
   video: 
   notes:
@@ -28,18 +38,6 @@
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
   logistics:
-
-- date: F 09/02
-  lecturer:
-  title:
-  recitation: >
-    <strong>Neural Nets, TensorFlow & Keras, OpenAI Gym, Bandits </strong>
-  slides: https://docs.google.com/presentation/d/18SMCO1P6w9RgRgA-RDJUU_hdHBpgwfOsDQDYmSGOLvY/edit#slide=id.p
-  notes: 
-  slides2: 
-  # slides2: https://cmudeeprl.github.io/403_website/assets/lectures/s21/s21_rec1_gym.pdf
-  video: 
-  notes2: 
 
   # notes: https://colab.research.google.com/drive/1Et323pZJjLgwkgfVR90UVkM1puLP3wyF#scrollTo=R4HVvCpS36AC
   # notes2: https://colab.research.google.com/drive/1PDdfwG1cZB6YXYsqkask6iDw3_XoYHTR
