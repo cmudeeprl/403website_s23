@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <b>D</b>eep <b>R</b>einforcement <b>L</b>earning
-description: 10-703 • Fall 2022 • Carnegie Mellon University
+description: 10-403 • Spring 2023 • Carnegie Mellon University
 logo: cmu-logo.png
 news: true
 ---
@@ -29,17 +29,17 @@ Students should have a solid understanding of the following areas
 - Numerical programming: e.g., How would you perform an elementwise product instead of an inner product? How do you invert a matrix?
 
 **Prerequisites:**
-- Prerequisites: 10601 introduction to machine learning
-- Minimum Grades: B in 10601
+- Prerequisites: 10601 Introduction to Machine Learning
+- Minimum Grades: C in 10601
 - Corequisites: None
 - Anti-requisites: None
 - Anti-req Prohibits: None
 
 ***
 
-- **Lectures:** Monday, Wednesday 11:50 AM - 1:10 PM
-- **Recitations:** Friday 11:50 AM - 1:10 PM
-- **Lecture/Recitation Location:** [HOA 160](https://www.google.com/maps/place/Hall+of+Arts/@40.4428819,-79.9477952,16z/data=!3m1!5s0x8834f2203033113d:0xee0377a92536e698!4m9!1m2!2m1!1shoa+160+cmu!3m5!1s0x8834f35a1ad202e9:0x797e3cde94db75d4!8m2!3d40.4406681!4d-79.9422936!15sCgtob2EgMTYwIGNtdZIBBnNjaG9vbOABAA){:target="\_blank"}
+- **Lectures:** Monday, Wednesday 12:30 AM - 1:50 PM
+- **Recitations:** Friday 12:30 AM - 1:50 PM
+- **Lecture/Recitation Location:** [GHC 4215] {:target="\_blank"}
 <!-- - **Office Hours Location:** [Gates-Hillman Center 8228](https://goo.gl/maps/74vUj6uoaTTzYM937){:target="\_blank"} -->
 - **Discussion:** [Piazza](https://piazza.com){:target="\_blank"}
 - **HW submission:** [Gradescope](https://www.gradescope.com){:target="\_blank"}

@@ -78,7 +78,7 @@ Each quiz will count equally toward the overall quiz grade.
 
 ### Remote Student Engagement
 
-The remote-only (REO) Section B for this course is for students who cannot be on campus due to a government restriction on visas or travel or a documented health issue. To ensure that we are supporting these remote students:
+The remote-only (REO) option for this course is for students who cannot be on campus due to a government restriction on visas or travel or a documented health issue. To ensure that we are supporting these remote students:
 - Students in the remote section will be included in the course discussion forum, Piazza, to ask and answer questions.
 - Remote students will receive feedback on their assignments via marked rubric items in Gradescope, as all students do.
 - We encourage students to request office hours by appointment as needed. Please contact the course staff if you need more support in office hours.
