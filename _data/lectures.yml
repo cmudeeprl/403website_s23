@@ -544,7 +544,7 @@
   lecturer:
   title:
   recitation: >
-    <strong>Recitation 7</strong>
+    <strong>Recitation 8</strong>
   slides: 
   video: 
   notes:
@@ -654,7 +654,7 @@
 - date: F 04/07
   lecturer:
   recitation: >
-    <strong>Recitation 8</strong>
+    <strong>Recitation 9</strong>
   notes:
   readings:
   logistics:
@@ -777,7 +777,7 @@
 
 - date: F 04/21
   lecturer:
-  recitation: <strong>Recitation 9</strong>
+  recitation: <strong>Recitation 10</strong>
   slides: 
   # video: https://drive.google.com/file/d/1h_oYoNRnRbCLGpFTu61hPbCXLbTuQZkW/view?usp=sfharing
   notes:
@@ -851,7 +851,7 @@
   lecturer:
   # quiz: >
   #   <strong>Quiz 3</strong>
-  recitation:  <strong>Recitation 10</strong>
+  recitation:  <strong>Recitation 11</strong>
   slides: 
   notes: 
   readings:
