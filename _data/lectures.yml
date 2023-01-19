@@ -12,6 +12,22 @@
   logistics:
 
 - date: F 01/20
+  lecturer:
+  title:
+  recitation: >
+    <strong> Recitation 1 </strong>
+  slides: 
+  notes: 
+  slides2: 
+  video: 
+  notes2: 
+  readings:
+    - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
+    - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
+  logistics:
+
+
+- date: M 01/23
   lecturer: 
   title: >
     <strong>Multi-armed Bandits</strong>
@@ -28,25 +44,6 @@
     # - Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
     # - Wang et al. <a href="https://arxiv.org/abs/1901.01753" target="_blank">Paired Open-Ended Trailblazer (POET)<span>:</span> Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions</a>(Optional)
   logistics:
-
-- date: M 01/23
-  lecturer:
-  title:
-  recitation: >
-    <strong> Recitation 1 </strong>
-  slides: 
-  notes: 
-  slides2: 
-  video: 
-  notes2: 
-  readings:
-    - <a href="https://www.deeplearningbook.org/" target="_blank">G, B & C Textbook</a>, Ch9, Ch10
-    - Tensorflow tutorial <a href="https://colab.research.google.com/drive/1jswUbztJ7WB3EcxNN6hYr7dbmz01PL1H?usp=sharing" target=  "_blank">notebook</a>
-    - OpenAI Gym tutorial <a href="https://colab.research.google.com/drive/1qlqJ3LqpOO8E-6HyPyjiuC80Z7GWgTSv?usp=sharing" target=  "_blank">notebook</a>
-    - PyTorch tutorial <a href="https://colab.research.google.com/drive/1-3hN0C9grsg62KoeFIxywcPum4a-HAYk?usp=sharing" target=  "_blank">notebook</a>
-    - <a href="https://www.tensorflow.org/guide/keras" target=  "_blank">The TensorFlow High Level (Keras) API</a>
-  logistics:
-
 
 - date: W 01/25
   lecturer: 
