@@ -48,8 +48,8 @@
 - date: W 01/25
   lecturer: 
   title: >
-    <strong>Markov Decision Processes, Value Iteration, Policy Iteration</strong>
-  slides: 
+    <strong>Gaussian Processes, Experiment design</strong>
+  slides: https://www.dropbox.com/s/2dbj2k6m80xeead/GPExperimentDesignS23.pdf?dl=0
   video: 
   notes:
   readings:
