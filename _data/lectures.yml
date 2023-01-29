@@ -54,7 +54,7 @@
   notes:
   readings:
     - <a href= "http://robotics.caltech.edu/wiki/images/d/d1/RasumussenWilliamsBook.pdf"> Rasmussen & Williams Gaussian Processes for Machine Learning Ch1, Ch2 2.1-2.3 </a>
-    - <a href= "https://arxiv.org/pdf/1012.2599.pdf> Brochu et. al A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning Sections 1, 2.1, 2.2 </a> 
+    - <a href= "https://arxiv.org/pdf/1012.2599.pdf" > Brochu et. al A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning Sections 1, 2.1, 2.2 </a> 
   logistics: <span class="event">HW1 out (tentative)</span> <br>
 
 - date: F 01/27
