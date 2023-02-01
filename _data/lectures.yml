@@ -91,19 +91,20 @@
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch3, Ch4
-    - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
+
   logistics: 
 
 - date: W 02/01
   lecturer: 
   title: >
-    <strong>Monte Carlo Learning and Temporal Difference Learning</strong>
+    <strong> Markov Decision Processes, Value Iteration, Policy Iteration</strong>
   slides: https://www.dropbox.com/s/a7hnwgphaxit60l/lecture_mdps%20_policyvalueIterS23.pdf?dl=0
   slides2:
   video: 
   notes:
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch5, Ch6
+    - <a href="https://distill.pub/2019/paths-perspective-on-value-learning/" target="blank">The Path perspective on Value Learning </a> (blogpost)
   logistics:
 
 # - date: T 02/16
@@ -141,7 +142,7 @@
 - date: M 02/06
   lecturer: 
   title:
-    <strong>Monte Carlo Learning and Temporal Difference Learning (Cont.) , Planning, Monte Carlo Tree search</strong>
+    <strong>Monte Carlo Learning and Temporal Difference Learning, Planning, Monte Carlo Tree search</strong>
   slides: 
   slides2:
   video: 
