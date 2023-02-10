@@ -362,7 +362,7 @@
     <strong>Recitation 6</strong>
   notes:
   readings:
-  logistics: <span class="deadline">HW2 due 11:59PM</span>
+  logistics: 
 
 
 
@@ -445,7 +445,7 @@
     # - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
     # - Silver et al. <a href="https://deepmind.com/research/publications/mastering-game-go-without-human-knowledge" target="_blank">Mastering the Game of Go without Human Knowledge</a>
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
-  logistics: <span class="event">HW3 out (tentative)</span>  
+  logistics: <span class="event">HW3 out (tentative)</span>, <span class="deadline">HW2 due 11:59PM</span>
 
 - date: F 03/17
   lecturer:
