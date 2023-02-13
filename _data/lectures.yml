@@ -171,7 +171,7 @@
   title:
     <strong>Monte Carlo Learning and Temporal Difference Learning, Planning, Monte Carlo Tree search</strong>
   slides: https://www.dropbox.com/s/dukdygvj9fqxj0i/lecture_MCTD_S23.pdf?dl=0
-  slides2: https://www.dropbox.com/s/h7x9auj04smgjch/MCTS_S23.pdf?dl=0
+  slides2: 
   video: 
   notes:
   readings:
@@ -184,7 +184,7 @@
   title:
   recitation: >
     <strong>Monte Carlo Learning (contd), HW1 Q&A</strong>
-  slides:
+  slides: https://www.dropbox.com/s/h7x9auj04smgjch/MCTS_S23.pdf?dl=0
   video: 
   notes:
   readings:
