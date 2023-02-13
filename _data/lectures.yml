@@ -195,7 +195,7 @@
   lecturer: 
   title: >
     <strong>Function approximation in prediction and control, Deep Q-learning</strong>
-  slides: https://www.dropbox.com/s/6wlxwdx99v7i7v5/lecture_FA_S23.pdf?dl=0 
+  slides: https://www.dropbox.com/s/6wlxwdx99v7i7v5/lecture_FA_S23.pdf?dl=0
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch6, Ch7 7.1-7.3
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch8.11
