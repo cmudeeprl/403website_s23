@@ -253,8 +253,9 @@
   lecturer:
   title:
   recitation: >
-    <strong>Recitation 5</strong>
-  slides: 
+    <strong>Quiz 1 Review, MCTS & DQN Review</strong>
+  slides: https://docs.google.com/presentation/d/1MJjQArihiGggMMY3EzfknpgQpzkaTQpbMCSHNleBwV4/edit?usp=sharing
+  slides2: https://docs.google.com/presentation/d/1yp9Mn_eBdIkewmTb1yrP_yTKX-a4JlX19ZOzneZhsuI/edit?usp=sharing
   video: 
   notes:
   readings:
