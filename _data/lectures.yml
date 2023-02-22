@@ -246,7 +246,7 @@
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
     - <a href="http://karpathy.github.io/2016/05/31/rl/" target = "_blank">http://karpathy.github.io/2016/05/31/rl/</a>
   video:
-  logistics: <span class="event">HW2 out (tentative)</span> <br>
+  logistics: <span class="event">HW2 out</span> <br>
 
 - date: F 02/17
   lecturer:
@@ -260,11 +260,23 @@
   readings:
   logistics:
 
+
 - date: M 02/20
   lecturer: 
   title: >
+    <strong>Policy gradients, REINFORCE, Actor-Critic methods (cont)</strong>
+  slides: https://www.dropbox.com/s/50tv588je16am0h/PG_S23.pdf?dl=0
+  readings:
+    - Mnih et al. <a href="https://arxiv.org/abs/1602.01783">Asynchronous Methods for Deep Reinforcement Learning</a>
+    - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+  video:
+
+
+- date: W 02/22
+  lecturer: 
+  title: >
     <strong>Natural PG, PPO, TRPO</strong>
-  slides: 
+  slides: https://www.dropbox.com/s/2z4z821uunb0m53/NaturalPolicyGradientsS23.pdf?dl=0
   video: 
   readings:
     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
@@ -272,24 +284,6 @@
     - Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
     - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
   logistics: 
-
-
-- date: W 02/22
-  lecturer: 
-  title: >
-    <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
-  slides: 
-  slides2: 
-           # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
-  video: 
-  readings:
-    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
-    #- <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
-    #- Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
-    #- Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
-    - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
-    - Haarnoja et al. <a href="https://arxiv.org/pdf/1801.01290.pdf" target="_blank">Soft Actor-Critic:Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
-    # - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
 
 - date: F 02/24
   lecturer:
@@ -309,6 +303,23 @@
 - date: M 02/27
   lecturer: 
   title: >
+    <strong>Maximum Entropy RL, soft actor critic, Deterministic Policy gradient, re-parametrized PG</strong>
+  slides: 
+  slides2: 
+           # https://www.dropbox.com/s/gziiw0emxsgjycf/maxentRL_2022.pdf?dl=0
+  video: 
+  readings:
+    - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
+    #- <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch13
+    #- Schulman et al. <a href="https://arxiv.org/abs/1502.05477" target="_blank">Trust Region Policy Optimization</a>
+    #- Schulman et al. <a href="https://arxiv.org/pdf/1707.06347.pdf" target="_blank">Proximal Policy Optimization Algorithms</a>
+    - Haarnoja et al. <a href="https://arxiv.org/abs/1702.08165" target="_blank">Reinforcement Learning with Deep Energy-Based Policies</a>
+    - Haarnoja et al. <a href="https://arxiv.org/pdf/1801.01290.pdf" target="_blank">Soft Actor-Critic:Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor</a>
+    # - (optional) Rajeswaran et al. <a href="https://arxiv.org/pdf/1703.02660.pdf" target="_blank">Towards Generalization and Simplicity in Continuous Control</a>
+
+- date: W 03/01
+  lecturer: 
+  title: >
     <strong>Evolutionary methods for policy search</strong>
   slides: 
   slides2: 
@@ -321,7 +332,49 @@
   logistics:
 
 
-- date: W 03/01
+- date: F 03/03
+  lecturer:
+  title:
+  recitation: >
+    <strong>Recitation 6</strong>
+  notes:
+  readings:
+  logistics: 
+
+
+
+# - date: Th 03/11
+#   lecturer:
+#   title: >
+#     <strong>Monte Carlo Tree search</strong>
+#   slides:
+#   video:
+#   readings:
+#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
+#     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
+#   logistics:
+
+
+
+- date: M 03/06
+  lecturer:
+  quiz: >
+    <strong>Spring Break - No Classes</strong>
+
+
+- date: W 03/08
+  lecturer:
+  quiz: >
+    <strong>Spring Break - No Classes</strong>
+  logistics: <span class="deadline">HW2 due 11:59PM</span>
+
+- date: F 03/10
+  lecturer:
+  quiz: >
+    <strong>Spring Break - No Classes</strong>
+
+  
+- date: M 03/13
   lecturer: 
   title: >
     <strong>Imitation learning, behavior cloning</strong>
@@ -346,46 +399,7 @@
     # - Antoine Cully et al. <a href="https://arxiv.org/abs/1407.3501" target="_blank">Robots that can adapt like animals</a>
   logistics:
 
-# - date: Th 03/11
-#   lecturer:
-#   title: >
-#     <strong>Monte Carlo Tree search</strong>
-#   slides:
-#   video:
-#   readings:
-#     - <a href="http://incompleteideas.net/book/RLbook2018.pdf" target="_blank">S & B Textbook</a>, Ch 8.11
-#     - Guo et al. <a href="https://papers.nips.cc/paper/5421-deep-learning-for-real-time-atari-game-play-using-offline-monte-carlo-tree-search-planning" target="_blank"> Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning</a>
-#   logistics:
-
-- date: F 03/03
-  lecturer:
-  title:
-  recitation: >
-    <strong>Recitation 6</strong>
-  notes:
-  readings:
-  logistics: 
-
-
-
-- date: M 03/06
-  lecturer:
-  quiz: >
-    <strong>Spring Break - No Classes</strong>
-
-
-- date: W 03/08
-  lecturer:
-  quiz: >
-    <strong>Spring Break - No Classes</strong>
-  logistics: <span class="deadline">HW2 due 11:59PM</span>
-
-- date: F 03/10
-  lecturer:
-  quiz: >
-    <strong>Spring Break - No Classes</strong>
-
-- date: M 03/13
+- date: W 03/15
   lecturer: 
   title: >
     <strong>Adversarial imitation learning, Imitation learning for vision-based manipulation</strong>
@@ -431,8 +445,17 @@
 #     - Bansal et al. <a href="https://arxiv.org/abs/1812.03079" target="_blank">ChauffeurNet&#58; Learning to Drive by Imitating the Best and Synthesizing the Worst</a>
 
 
+- date: F 03/17
+  lecturer:
+  title:
+  recitation: >
+    <strong>Recitation 7</strong>
+  notes:
+  readings:
+  logistics:
 
-- date: W 03/15
+
+- date: M 03/20
   lecturer: 
   title: >
     <strong>Transporter networks for Robot manipulation (cont.), Model-based RL in low-dim state space</strong>
@@ -450,17 +473,8 @@
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
   logistics: <span class="event">HW3 out (tentative)</span>
 
-- date: F 03/17
-  lecturer:
-  title:
-  recitation: >
-    <strong>Recitation 7</strong>
-  notes:
-  readings:
-  logistics:
 
-
-- date: M 03/20
+- date: W 03/22
   lecturer: 
   title: >
     <strong>MBRL (cont), AlphaGo, AlphaGoZero</strong>
@@ -508,7 +522,7 @@
 #    # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
 #  logistics:
 
-
+'''
 
 - date: W 03/22
   lecturer: 
@@ -531,7 +545,7 @@
     # - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
     # - Doersch <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
   logistics:
-
+'''
 - date: F 03/24
   lecturer:
   title:
