@@ -871,6 +871,17 @@
   logistics:
 
 
+- date: M 05/01
+  lecturer:
+  quiz: >
+     <strong>Quiz 3</strong>
+  recitation:  
+  slides: 
+  notes: 
+  readings:
+  logistics:
+
+
 
 # - date: W 12/01
 #   lecturer: Ruslan
