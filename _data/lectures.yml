@@ -315,8 +315,6 @@
   title: >
     <strong>Re-parametrized policy gradients, deep deterministic policy gradients</strong>
   slides:  https://www.dropbox.com/s/m9ypk4af2vxdtjg/PathwiseDDPGS23.pdf?dl=0
-  slides2: 
-          https://www.dropbox.com/s/wnvx5p04ku0jmy2/evolutionarymethods_S23.pdf?dl=0
   video: 
   readings:
     - Lillicrap et al. <a href="https://arxiv.org/abs/1509.02971" target="_blank">Continuous control with deep reinforcement learning</a>
@@ -332,8 +330,7 @@
   lecturer:
   title: >
     <strong>Evolutionary Methods</strong>
-  slides:  https://www.dropbox.com/s/m9ypk4af2vxdtjg/PathwiseDDPGS23.pdf?dl=0
-  slides2: https://www.dropbox.com/s/wnvx5p04ku0jmy2/evolutionarymethods_S23.pdf?dl=0
+  slides: https://www.dropbox.com/s/wnvx5p04ku0jmy2/evolutionarymethods_S23.pdf?dl=0
   recitation: 
   notes:
   readings:
@@ -405,8 +402,8 @@
   lecturer: 
   title: >
     <strong>Adversarial imitation learning, Imitation learning for vision-based manipulation</strong>
-  slides: 
-  slides2: 
+  slides: https://www.dropbox.com/s/3q8wc47azyc9r0b/GAILS23.pdf?dl=0
+  slides2: https://www.dropbox.com/s/cckz746m2w59oui/ILManipulationTransportersS23.pdf?dl=0
   video: 
   notes:
   readings:
