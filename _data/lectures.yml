@@ -561,14 +561,12 @@
 - date: M 03/27
   lecturer: 
   title: >
-    <strong>MBRL (cont.) Deterministic latent dynamics models</strong>
+    <strong>MBRL (cont.) latent dynamics models</strong>
   slides: https://www.dropbox.com/s/eaw7mkm5a1cjn95/MBRLRL_sensoryS23.pdf?dl=0
   slides2: 
   video:
   notes:
   readings:
-    - DeepMind Blog Post <a href="https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules" target="_blank"> MuZero:Mastering Go, chess, shogi and Atari without rules</a>
-    - Julian Schrittwieser et al. <a href="https://www.nature.com/articles/s41586-020-03051-4" target = "_blank">Mastering Atari, Go, chess and shogi by planning with a learned model</a>
     - Hafner, et.al. - <a href="https://arxiv.org/abs/1912.01603" target=  "_blank">Dream to Control:Learning Behaviors by Latent Imagination</a>
     - Hafner, et.al. - <a href="https://arxiv.org/abs/2010.02193" target=  "_blank">Mastering Atari with Discrete World Models</a>
     - Carl Doersch et al. <a href="https://arxiv.org/abs/1606.05908" target="_blank">Tutorial on Variational Autoencoders</a>
