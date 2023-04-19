@@ -783,7 +783,7 @@
 - date: W 04/19
   title: >
     <strong> Offline Reinforcement Learning</strong>
-  slides:
+  slides: https://www.dropbox.com/s/y5neh8eg2pytx90/offpolicyRL_S23.pdf?dl=0
   notes:
   readings:
     - Fujimoto et al. <a href="https://arxiv.org/abs/1812.02900" target="_blank">Off-Policy Deep Reinforcement Learning without Exploration</a>
