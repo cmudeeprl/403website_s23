@@ -850,13 +850,15 @@
 - date: W 04/26
   lecturer: 
   title: >
-    <strong>Material Review </strong>
-  slides: 
+    </strong>Diffusion models for action prediction and planning<strong>
+  slides: https://www.dropbox.com/s/6kdguv44vvb22s3/diffusionmodels_S23.pdf?dl=0
   notes:
   readings:
     # - Zeng et. al <a href="https://transporternets.github.io" target="_blank">Transporter Networks Rearranging the Visual World for Robotic Manipulation</a>
     # - Seita et al. <a href="https://arxiv.org/abs/2012.03385" target="_blank">Learning to Rearrange Deformable Cables, Fabrics, and Bags with Goal-Conditioned Transporter Networks</a>
-    - (optional) Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
+    #- (optional) Shridhar et al. <a href="https://cliport.github.io" target="_blank">CLIPort What and Where Pathways for Robotic Manipulation</a>
+    - Jannar et al. <a href="https://arxiv.org/abs/2205.09991" target="_blank">Planning with Diffusion for Flexible Behavior Synthesis</a>
+    - Pearce et al. <a href="https://arxiv.org/abs/2301.10677" target="_blank">Imitating Human Behaviour with Diffusion Models</a>
   logistics:
       
 
